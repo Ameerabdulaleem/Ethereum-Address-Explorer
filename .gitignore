@@ -1,0 +1,8 @@
+# ignore node_modules (heavy dependency folder)
+node_modules
+
+# ignore environmental variables
+.env 
+
+# Ignore system files
+.DS_Store
